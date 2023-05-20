@@ -14,7 +14,5 @@ There are two playable characters:
 | Han Solo | Stormtrooper |
 
 **Game**
-<video width="320" height="240" controls>
-  <source src="Img/Star_Wars_demonstration.mov" type="video/mp4">
-</video>
+![Game](Img/Star_wars_demonstration.gif)
 
