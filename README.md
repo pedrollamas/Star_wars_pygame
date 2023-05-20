@@ -17,3 +17,6 @@ There are two playable characters:
 
 ![Game](Img/Star_wars_demonstration.gif)
 
+<p align="center">
+  <img src="Img/Star_wars_demonstration.gif" alt="GIF del video" width="400" height="300">
+</p>
