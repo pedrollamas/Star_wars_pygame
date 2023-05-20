@@ -8,6 +8,6 @@ This is an arcade-style game created with Pygame. You can play 1 vs 1 with a fri
 My objective with this game was to learn the basics of Pygame, in order to create different mini-games in the future. I hope you enjoy it, and I invite you to collaborate to improve it or create new games if you wish.
 ## Demonstration
 There are two playable characters:
-| ![Han Solo](Img/han-solo.gif) | ![Stormtrooper](ruta/imagen2.png) |
+| ![Han Solo](Img/han-solo.gif) | ![Stormtrooper](Img/stormtrooper.gif) |
 |:---:|:---:|
 | Han Solo | Stormtrooper |
