@@ -45,3 +45,23 @@ In the same location as the root folder, run the following command to start the 
 python star_wars.py
 ```
 Once the command is executed, the game will open in a new window, and you can start playing.
+
+## Controls
+#### For the Stormtrooper:
+
+Move Up: W
+Move Down: S
+Move Left: A
+Move Right: D
+Shoot: Caps lock key (Press to shoot)
+
+#### For Han Solo:
+Move Up: Up Arrow
+Move Down: Down Arrow
+Move Left: Left Arrow
+Move Right: Right Arrow
+Shoot: Spacebar (Press to shoot)
+
+To close the game, simply click the ❌ button in the window. If you want to play again, wait for 4 seconds and the game will automatically restart 🔁
+
+🌟Enjoy the game and may the Force be with you!🌟 
