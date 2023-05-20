@@ -13,7 +13,7 @@ There are two playable characters:
 |:---:|:---:|
 | Han Solo | Stormtrooper |
 
-**Game**
+The quality of the gif is low, you'll find out later on when you download it that it is better 🤙
 
 <p align="center">
   <img src="Img/Star_wars_demonstration.gif" alt="GIF del video" width="600" height="400">
