@@ -76,4 +76,4 @@ To close the game, simply click the ❌ button in the window. If you want to pla
 * 📬 Send me an email at pedrollamaslopez@hotmail.com
 * 👨‍💼🤝 Connect with me on Linkedin at https://www.linkedin.com/in/pedrollamaslopez/
 
-# 🌟**Enjoy the game and may the Force be with you!**🌟 
+🌟**Enjoy the game and may the Force be with you!**🌟 
