@@ -11,7 +11,7 @@ I hope you enjoy it, and I invite you to collaborate to improve it or create new
 There are two playable characters:
 | ![Han Solo](Img/han-solo.gif) | ![Stormtrooper](Img/stormtrooper_dance.gif) |
 |:---:|:---:|
-| Han Solo | Stormtrooper |
+| **Han Solo** | **Stormtrooper** |
 
 The quality of the gif is low, you'll find out later on when you download it that it is better 🤙
 
