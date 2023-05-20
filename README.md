@@ -12,5 +12,6 @@ There are two playable characters:
 | ![Han Solo](Img/han-solo.gif) | ![Stormtrooper](Img/stormtrooper_dance.gif) |
 |:---:|:---:|
 | Han Solo | Stormtrooper |
+
 **Game**
 ![Game](Img/Star_wars_demonstration.mov)
