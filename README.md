@@ -28,7 +28,9 @@ To play the Star Wars game in your local environment, follow these steps:
 2. Navigate to the location where you want to clone the repository.
 3. Run the following command to clone the repository:
 
-```shell git clone https://github.com/pedrollamas/Star_wars_pygame.git shell```
+``` 
+git clone https://github.com/pedrollamas/Star_wars_pygame.git 
+```
 
 ### Install Dependencies
 * Make sure you have Python installed on your system.
