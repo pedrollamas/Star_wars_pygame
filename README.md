@@ -5,7 +5,7 @@ Dive into the Star Wars galaxy and get ready for an epic showdown between two le
 ## Description
 This is an arcade-style game 🕹️ created with ![Pygame](https://img.shields.io/badge/Pygame-%23FFCA1C?style=for-the-badge&logo=pygame&logoColor=white). You can play 1️⃣ 🆚 1️⃣ with a friend using the same keyboard. 
 
-I used Tech with Tim tutorial and use it as a base, here is the link https://www.youtube.com/watch?v=jO6qQDNa2UY
+I used Tech with Tim tutorial and used it as a base, here is the link https://www.youtube.com/watch?v=jO6qQDNa2UY
 
 
 Each player has 10 lives ♥️ and will take on the role of either Han Solo or a Stormtrooper.
@@ -72,7 +72,8 @@ Shoot: Spacebar (Press to shoot)
 To close the game, simply click the ❌ button in the window. If you want to play again, wait for 4 seconds and the game will automatically restart 🔁
 
 ## Contact:
-  * 📬 Send me an email at pedrollamaslopez@hotmail.com
-  * 👨‍💼🤝 Connect with me on Linkedin at https://www.linkedin.com/in/pedrollamaslopez/
+* Feel free to send me an email, generate an issue or pull. My goal is for everyone who likes the idea, to contribute and start developing small fun games.
+* 📬 Send me an email at pedrollamaslopez@hotmail.com
+* 👨‍💼🤝 Connect with me on Linkedin at https://www.linkedin.com/in/pedrollamaslopez/
 
-🌟Enjoy the game and may the Force be with you!🌟 
+# 🌟**Enjoy the game and may the Force be with you!**🌟 
