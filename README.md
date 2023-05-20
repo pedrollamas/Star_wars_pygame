@@ -33,10 +33,15 @@ git clone https://github.com/pedrollamas/Star_wars_pygame.git
 ```
 
 ### Install Dependencies
-* Make sure you have Python installed on your system.
-* Navigate to the root folder of the cloned repository.
-* Run the following command to install the dependencies:
+1. Make sure you have Python installed on your system.
+2. Navigate to the root folder of the cloned repository.
+3. Run the following command to install the dependencies:
 ```
 pip install -r requirements.txt
 ```
-
+### Run the Game
+In the same location as the root folder, run the following command to start the game:
+```
+python star_wars.py
+```
+Once the command is executed, the game will open in a new window, and you can start playing.
