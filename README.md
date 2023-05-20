@@ -50,6 +50,7 @@ python star_wars.py
 Once the command is executed, the game will open in a new window, and you can start playing.
 
 ## Controls
+![Controls](Img/controls.jpg)
 #### For the Stormtrooper:
 
 Move Up: W
