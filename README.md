@@ -5,7 +5,7 @@ Dive into the Star Wars galaxy and get ready for an epic showdown between two le
 ## Description
 This is an arcade-style game 🕹️ created with ![Pygame](https://img.shields.io/badge/Pygame-%23FFCA1C?style=for-the-badge&logo=pygame&logoColor=white). You can play 1️⃣ 🆚 1️⃣ with a friend using the same keyboard. 
 
-I used Tech with Tim tutorial and use it as a base, here is the link ![Video de ejemplo]([https://www.youtube.com/watch?v=TU_CODIGO_DE_VIDEO](https://www.youtube.com/watch?v=jO6qQDNa2UY))
+I used Tech with Tim tutorial and use it as a base, here is the link ![Tech with Tim]([https://www.youtube.com/watch?v=TU_CODIGO_DE_VIDEO](https://www.youtube.com/watch?v=jO6qQDNa2UY)
 
 
 Each player has 10 lives ♥️ and will take on the role of either Han Solo or a Stormtrooper.
