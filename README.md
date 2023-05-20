@@ -18,3 +18,20 @@ The quality of the gif is low, you'll find out later on when you download it tha
 <p align="left">
   <img src="Img/Star_wars_demonstration.gif" alt="GIF del video" width="600" height="400">
 </p>
+
+## Instructions
+To play the Star Wars game in your local environment, follow these steps:
+
+### Clone the Repository
+
+1. Open a terminal or command prompt on your system.
+2. Navigate to the location where you want to clone the repository.
+3. Run the following command to clone the repository:
+
+```shell
+git clone https://github.com/pedrollamas/Star_wars_pygame.git shell´´´
+
+### Install Dependencies
+* Make sure you have Python installed on your system.
+* Navigate to the root folder of the cloned repository.
+* Run the following command to install the dependencies:
