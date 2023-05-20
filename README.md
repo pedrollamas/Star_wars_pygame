@@ -1,2 +1,2 @@
-# Star_wars_pygame
-¡Star Wars: Duelo Espacial! Sumérgete en la galaxia de Star Wars y prepárate para un enfrentamiento épico entre dos legendarios personajes: Han Solo y un implacable Stormtrooper. Toma el control de tu personaje, esquiva los disparos enemigos y demuestra tu habilidad con la pistola láser. 
+# 🎮 Star Wars Game 🎮
+Star Wars: Space Duel! Dive into the Star Wars galaxy and get ready for an epic showdown between two legendary characters: Han Solo and a relentless Stormtrooper. Take control of your character, dodge enemy shots, and showcase your skills with the laser pistol.
